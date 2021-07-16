@@ -1,0 +1,19 @@
+GET  http://localhost:3000/customers/list/1
+# POST http://localhost:3000/customers/add
+# Content-Type: application/json
+
+# {
+#      "customerNumber": 212,
+#       "customerName": "Atelier graphique",
+#       "contactLastName": "John",
+#       "contactFirstName": "Kennady",
+#       "phone": "4012312",
+#       "addressLine1": "54, rue Royale",
+#       "addressLine2": null,
+#       "city": "Nantes",
+#       "state": null,
+#       "postalCode": "44000",
+#       "country": "Italy",
+#       "salesRepEmployeeNumber": 2000,
+#       "creditLimit": 12500
+# }
